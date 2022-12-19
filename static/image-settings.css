@@ -1,0 +1,12 @@
+.image-middle{
+    margin: 0 auto;
+    display: flex;
+    vertical-align: center;
+}
+.image-middle-ava{
+    width:20%;
+    margin: 0 auto;
+    display: flex;
+    vertical-align: center;
+    padding-bottom: 30px;
+}

@@ -1,0 +1,14 @@
+.navigatortext{
+    letter-spacing: 2px;
+    padding: 3px 0px;
+    margin: 0px 5px;
+    font-size: 12px;
+    font-family: "Reaver",serif;
+    font-weight: 600;
+    opacity: .8;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-transform: uppercase;
+}

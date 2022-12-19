@@ -1,0 +1,49 @@
+.nav-link.active{
+    letter-spacing: 3px;
+    border-bottom: 3px solid #ff6046;
+    opacity: 1;
+    padding: 3px 0px;
+    margin: 0px px;
+    font-size: 12px;
+    font-family: "Reaver",serif;
+    font-weight: 600;
+}
+.global-footer__bottom {
+    background: #000;
+    font-size: 12px;
+    min-height: 50px;
+    padding: 0 20px;
+    text-align: center;
+    color: #777;
+}
+.logosbottomedit {
+    margin: 0px 5px 10px 5px;
+    max-height: 15px;
+    width: 0 auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logodota2wikibottom {
+    width: 200px;
+    margin: 0 auto;
+    display: flex;
+    vertical-align: center;
+}
+.avatarki{
+    max-height: 100px;
+    width: 0 auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.avatarkiallign {
+    width: 700px;
+    margin: 0 auto;
+    display: flex;
+    vertical-align: center;
+    
+}

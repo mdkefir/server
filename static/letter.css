@@ -1,0 +1,71 @@
+.letter {
+    letter-spacing: 2px;
+    padding: 3px 0px;
+    margin: 0px 5px;
+    font-size: 20px;
+    font-family: "Reaver",serif;
+    opacity: .8;
+    color: #fff;
+}
+
+.letter2 {
+    font-size:60px;
+    line-height: 113%;
+    font-family: "Reaver",serif;
+    letter-spacing: 5px;
+    font-weight: bold;
+    color: #ffffffee;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 20px #000;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.letter3 {
+    font-size:25px;
+    font-family: "Reaver",serif;
+    letter-spacing: 5px;
+    font-weight: 600;
+    width: 100%;
+    max-width: 1280px;
+    color: #ffffffee;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 20px #000;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.letter4 {
+    font-size:15px;
+    width: 100%;
+    color: #ffffffee;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 20px #000;
+    text-align: center;
+    margin: 0px auto;
+    margin-block-start: 10px;
+    max-width: 1300px;
+}
+
+.letter5 {
+    font-size:25px;
+    text-align: center;
+    text-shadow: 0px 0px 20px #000;
+    width:100%;
+    margin-top: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+.letter6 {
+    font-size:15px;
+    width: 100%;
+    color: #ffffffee;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 20px #000;
+    text-align: center;
+    margin: 0px auto;
+    margin-block-start: 50px;
+    max-width: 1300px;
+}

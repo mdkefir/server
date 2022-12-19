@@ -1,0 +1,13 @@
+.tablica{
+    margin:auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    max-width:1300px;
+    padding:0 15 px;
+    border:100px;
+}
+.tableca{
+    width: 100%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    text-align:center;
+}
